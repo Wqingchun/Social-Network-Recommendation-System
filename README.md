@@ -63,9 +63,13 @@ Execution Instructions:
 
 NOTES:
 1) Execution takes a lot of time. Intermediate calculates are stored in python pickle formats
+
 2) The filtered dataset and created pickles for tempe can be found here: 
+
 3) If the algorithm should be run for a different city, run pre_process.py with the city name and delete the following files:
 
 a) pickles/naive.pickle 
+
 b) pickles/b_users.pickle
+
 c) pickles/rating_matrix_final.pickle
