@@ -1,4 +1,5 @@
 Social Network Recommender System
+----------------------------------
 
 A Recommender System that makes use of friendship relations in a social network graph to improve recommendation accuracy.
 
@@ -20,7 +21,6 @@ Akshay Nayak (anayakv@ncsu.edu)
 Parin Sanghavi (prsangha@ncsu.edu)
 
 Important Links:
-----------------------------------------------------------------
 
 Paper: http://www.cobase.cs.ucla.edu/tech-docs/jmhek/snrs.pdf
 
@@ -31,8 +31,6 @@ Dataset: https://www.yelp.com/dataset_challenge
 Filtered Dataset: https://drive.google.com/open?id=0B88KCEO9WlRUVmtqMGpZZnRVaW8 
 
 
------------------------------------------------------------------
-
 Setup:
 
 1) Clone the repository specified in the Github link
@@ -40,28 +38,6 @@ Setup:
 2) Download and unzip Filtered Dataset. Copy the content of the csvs folder in the zip into the csvs folder into the repository.
 
 3) Copy the content of the pickles folder in the zip to the pickles folder in the repository.
-
-The folder structure should look like this:--
-
-Folder structure:
-
-SNRS
--- src
----- train.py
----- test.py 
--- csvs
----- (csv files....)
--- Scripts
----- pre_process.py
----- split.R
--- pickles
----- (pickle files....)
--- Dataset
----- user.json
----- business.json
----- review.json
-
------------------------------------------------------------------
 
 Preprocessing instructions:
 
@@ -73,7 +49,6 @@ Preprocessing instructions:
 
 4) All necessary files for training will be created.
 
------------------------------------------------------------------
 
 Execution Instructions:
 
@@ -85,7 +60,6 @@ Execution Instructions:
 
 4) Run the test: execfile('src/test.py')  
 
------------------------------------------------------------------
 
 NOTES:
 1) Execution takes a lot of time. Intermediate calculates are stored in python pickle formats
