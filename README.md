@@ -6,18 +6,27 @@ A Recommender System that makes use of friendship relations in a social network 
 Tools/Libraries:
 
 Apache SPARK
+
 SparkSQL
+
 R library caTools
+
 scipy
+
 numpy
 
 Project Team:
 
 Akhil Rao (arrao@ncsu.edu)
+
 Sanket Chinchalkar (schinch2@ncsu.edu)
+
 Nitish Shivrayan (nshivra@ncsu.edu)
+
 Sridhar Swamy (snswamy@ncsu.edu)
+
 Akshay Nayak (anayakv@ncsu.edu)
+
 Parin Sanghavi (prsangha@ncsu.edu)
 
 Important Links:
@@ -62,6 +71,7 @@ Execution Instructions:
 
 
 NOTES:
+
 1) Execution takes a lot of time. Intermediate calculates are stored in python pickle formats
 
 2) The filtered dataset and created pickles for tempe can be found here: 
