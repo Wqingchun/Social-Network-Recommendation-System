@@ -69,7 +69,3 @@ NOTES:
 a) pickles/naive.pickle 
 b) pickles/b_users.pickle
 c) pickles/rating_matrix_final.pickle
-
-Follow the execution instructions.
-
----------------------X--------X-------X---------------------------
