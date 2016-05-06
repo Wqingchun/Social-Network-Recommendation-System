@@ -3,31 +3,7 @@ Social Network Recommender System
 
 A Recommender System that makes use of friendship relations in a social network graph to improve recommendation accuracy.
 
-Tools/Libraries:
-
-Apache SPARK
-
-SparkSQL
-
-R library caTools
-
-scipy
-
-numpy
-
-Project Team:
-
-Akhil Rao (arrao@ncsu.edu)
-
-Sanket Chinchalkar (schinch2@ncsu.edu)
-
-Nitish Shivrayan (nshivra@ncsu.edu)
-
-Sridhar Swamy (snswamy@ncsu.edu)
-
-Akshay Nayak (anayakv@ncsu.edu)
-
-Parin Sanghavi (prsangha@ncsu.edu)
+Tools/Libraries: Apache SPARK, SparkSQL, R library caTools, scipy, numpy
 
 Important Links:
 
